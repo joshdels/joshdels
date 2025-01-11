@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua S. De Leon, Registered Agricultural and Biosystem Engineer and Water Resource Engineer. Im more of a self taught programmer
+- 👋 Hi, I’m Joshua S. De Leon, Agricultural and Biosystem Engineer. Im more of a self taught programmer
 - 👀 I’m interested in GIS Developer
 - 🌱 I’m currently learning Python, WebGIS and some database
 - 💞️ I’m looking to collaborate on for GIS developement
