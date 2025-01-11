@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua S. De Leon, Agricultural and Biosystem Engineer. Im more of a self taught programmer
-- 👀 I’m interested in GIS Developer
+- 👀 I’m interested in GIS Developement
 - 🌱 I’m currently learning Python, WebGIS and some database
 - 💞️ I’m looking to collaborate on for GIS developement
 - 📫 How to reach me, just email me on assistantgisjosh@gmail.com
