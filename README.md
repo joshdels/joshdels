@@ -2,11 +2,13 @@
 
 I’m a GIS Systems Engineer, GIS Analyst/Developer, and Agricultural Engineer specializing in Land and Water Engineering and Geospatial Systems.
 
-🌍 I design and build modern GIS tools, spatial platforms, and enterprise geospatial systems used by organizations to analyze, manage, and visualize spatial data.
+🌍 I Help Municipalities/Engineer Teams transforming Utilities CAD files to Powerful WebGIS that they will use right ahead.
 
 🚀 My work focuses on:
-- Helping Municipalities/Engineer Teams transforming Utilities CAD files to Powerful WebGIS that they will use right ahead.
-
+- CAD -> GIS
+- Automated Pipelines
+- Custom GIS tools.
+- FullStack WebGIS development.
 
 📚 Currently learning:
 - Advanced Next.js development
