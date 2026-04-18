@@ -1,51 +1,37 @@
-# 👋 Hi, I'm Joshua S. De Leon
+## Joshua S. De Leon
 
-**GIS Systems Engineer · GIS Analyst/Developer · Agricultural Engineer**  
-*Land & Water Engineering | Geospatial Systems | Philippines 🇵🇭*
-
----
-
-## 🌍 What I Do
-
-I help municipalities and engineering teams transform **Utilities CAD files into powerful, ready-to-use WebGIS platforms** — bridging the gap between raw spatial data and actionable geospatial intelligence.
+GIS Systems Engineer · GIS Analyst/Developer · Land and Water Engineer  
+Philippines
 
 ---
 
-## 🚀 Core Focus
+I help municipalities and engineering teams turn **CAD utility files into production-ready WebGIS platforms** — bridging raw spatial data and actionable geospatial intelligence. Land, water, maps — that's my world.
+
+---
+
+**Core focus**
 
 | Area | Details |
 |---|---|
-| 🗂 **CAD → GIS** | Converting engineering drawings into spatial databases |
-| ⚙️ **Automated Pipelines** | Streamlining spatial data workflows end-to-end |
-| 🔧 **Custom GIS Tools** | Building tailored geospatial solutions |
-| 🌐 **Full-Stack WebGIS** | End-to-end web mapping application development |
+| CAD to GIS | Engineering drawings into spatial databases |
+| Automated pipelines | Streamlined end-to-end spatial workflows |
+| Custom GIS tools | Tailored solutions for real geospatial problems |
+| Full-stack WebGIS | End-to-end web mapping application development |
 
 ---
 
-## 📚 Currently Learning
+**Currently learning**
 
-- Advanced **Next.js** development
-- Modern **DevOps** practices
-- Advanced **web mapping** and spatial systems architecture
+`Next.js` · `DevOps` · `advanced web mapping` · `spatial systems architecture`
 
 ---
 
-## 💼 Work
+**Links**
 
-- 🕐 Part-time at **[Top Map Solutions](https://topmapsolutions.com)** & **[InfraLens](https://infralens.topmapsolutions.com)**
-- 🌐 Portfolio: **[joshdels.topmapsolutions.com](https://joshdels.topmapsolutions.com/)**
-
----
-
-## 🗺️ Fun Fact
-
-I genuinely love the world of maps, geospatial technology, and spatial problem-solving — turning complex spatial data into tools people actually use.
+- [Top Map Solutions](https://topmapsolutions.com) — part-time
+- [InfraLens](https://infralens.topmapsolutions.com) — part-time
+- [Portfolio](https://joshdels.topmapsolutions.com)
 
 ---
 
-*Magandang Araw · Maayong Adlaw · Good Day* 🌏
-
-<!---
-joshdels/joshdels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Magandang Araw · Maayong Adlaw · Good Day*
