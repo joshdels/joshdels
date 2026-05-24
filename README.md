@@ -4,6 +4,7 @@
 
 Started from **Arduino + Embedded C++** → now building skills in:
 - Geospatial Systems
+- GIS Integration
 - Full Stack Development
 - Spatial Databases
 - Urban Technology
@@ -12,10 +13,10 @@ Started from **Arduino + Embedded C++** → now building skills in:
 ---
 
 ## 🚀 Currently Learning
-- Advanced GIS Mapping Libraries
 - The Odin Project
-- System Design
-- Full Stack Web Development
+- Advanced GIS Mapping Libraries
+- System Design and Architecture
+- Fundamentals of Full Stack Web Development
 
 ---
 
