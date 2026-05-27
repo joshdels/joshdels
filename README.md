@@ -1,6 +1,6 @@
 # Hi, I'm Joshua 🇵🇭
 
-### GIS • Full Stack • Spatial Systems • Embedded Engineering
+### GIS • Data • Web Full Stack • Spatial Systems • Embedded Engineering
 
 Started from **Arduino + Embedded C++** → now building skills in:
 - Geospatial Systems
