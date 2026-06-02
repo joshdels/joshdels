@@ -2,7 +2,7 @@
 
 *Magandang Araw · Maayong Adlaw · Good Day*
 
-### GIS • Data • Web Full Stack • GeoSpatial Systems • Embedded Engineering • Resarch
+### GIS • Data • Web Full Stack • GeoSpatial Systems • Soon Geospatial Engineer
 
 Started from **Arduino + Embedded C++** → now building skills in:
 - Geospatial Systems
