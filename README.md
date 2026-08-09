@@ -4,7 +4,7 @@
 
 ### Founder, TopMapSolutions
 
-Bringing GIS and spatial data infrastructure to organization and local governemtn mapping, digitizing, and modernizing how cities/municipalities manage their data.
+Bringing GIS and spatial data infrastructure to organization and local government digitizing, and modernizing how cities/municipalities manage their data for decades.
 
 ---
 
