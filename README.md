@@ -73,5 +73,3 @@ Bringing GIS and spatial data infrastructure to organization and local governmen
 ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
 
 ---
-
-### Building TopMapSolutions to bring modern spatial tech to local government.
