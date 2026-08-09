@@ -11,15 +11,15 @@ Bringing GIS and spatial data infrastructure to organization and local governemt
 ## 🗺️ Geospatial
 *The core of TopMapSolutions*
 
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![MapLibre](https://img.shields.io/badge/MapLibre-000000?style=for-the-badge&logo=maplibre&logoColor=white)
-![deck.gl](https://img.shields.io/badge/deck.gl-000000?style=for-the-badge&logo=webgl&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![PyQGIS](https://img.shields.io/badge/PyQGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![deck.gl](https://img.shields.io/badge/deck.gl-000000?style=for-the-badge&logo=webgl&logoColor=white)
 
 ---
 
@@ -58,6 +58,9 @@ Bringing GIS and spatial data infrastructure to organization and local governemt
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Backblaze](https://img.shields.io/badge/Backblaze-E21E29?style=for-the-badge&logo=backblaze&logoColor=white)
+![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ---
 
